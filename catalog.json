@@ -15,7 +15,7 @@
       "version": "0.1.0",
       "min_core_version": "0.9.99",
       "tags": ["ui", "visuals"]
-    }
+    },
     {
       "id": "demo",
       "name": "Demo",
